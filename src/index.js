@@ -1,21 +1,20 @@
 import React, { PureComponent } from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { Header } from "./Componentes/Header";
 
-import { Auth0Provider } from "@auth0/auth0-react";
-
-const domain = "dev-kiad8kuoh8wiheif.us.auth0.com";
-const clientId = "CC594QNahn9gWLwq6XaG3hYxX1S2l1pH";
+import { Back } from "./Componentes/Back.js";
+import { Footer } from "./Componentes/Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Header />
-  <Back />
-  <Footer/>
+  <>
+    <Header />
+    <Back />
+    <Footer />
+  </>
 );
-
 
 // import React from 'react';
 // import ReactDOM from 'react-dom/client';
