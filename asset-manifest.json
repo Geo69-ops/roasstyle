@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roastyle/static/css/main.48230487.css",
-    "main.js": "/roastyle/static/js/main.5b70425a.js",
+    "main.css": "/roastyle/static/css/main.b7067645.css",
+    "main.js": "/roastyle/static/js/main.021e2434.js",
     "static/js/787.f18e44c1.chunk.js": "/roastyle/static/js/787.f18e44c1.chunk.js",
     "index.html": "/roastyle/index.html",
-    "main.48230487.css.map": "/roastyle/static/css/main.48230487.css.map",
-    "main.5b70425a.js.map": "/roastyle/static/js/main.5b70425a.js.map",
+    "main.b7067645.css.map": "/roastyle/static/css/main.b7067645.css.map",
+    "main.021e2434.js.map": "/roastyle/static/js/main.021e2434.js.map",
     "787.f18e44c1.chunk.js.map": "/roastyle/static/js/787.f18e44c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48230487.css",
-    "static/js/main.5b70425a.js"
+    "static/css/main.b7067645.css",
+    "static/js/main.021e2434.js"
   ]
 }
