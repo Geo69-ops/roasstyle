@@ -1,18 +1,11 @@
 import "./App.css";
 import React from "react";
-import { Header } from "./Componentes/Header";
-// import "boxicons";
-// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { Back } from "./Componentes/Back.js";
-import { Footer } from "./Componentes/Footer";
 
 function App() {
   return (
     // <DataProvider>
     <div className="App">
-      <Header />
-      <Back />
-      <Footer/>
+   
 
       {/* <Routes>
             <Route path="/" element={<Inicio />} />

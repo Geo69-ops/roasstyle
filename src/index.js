@@ -11,13 +11,9 @@ const clientId = "CC594QNahn9gWLwq6XaG3hYxX1S2l1pH";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  // <Auth0Provider
-  //   domain={domain}
-  //   clientId={clientId}
-  //   redirectUri={window.location.origin}
-  // >
-    <App />
-  // </Auth0Provider>
+  <Header />
+  <Back />
+  <Footer/>
 );
 
 
